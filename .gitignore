@@ -1,0 +1,19 @@
+# Python / Virtual Environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# Database & Storage
+chroma_db/
+*.db
+*.sqlite3
+
+# Node / Frontend Build
+node_modules/
+dist/
+build/
+.DS_Store
+.env
